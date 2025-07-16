@@ -23,6 +23,8 @@ npm install
 npm run dev
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🔗 You can view the live project hosted on Vercel here:  
+[https://next-post-d20aoj80w-mois-projects-d04b43af.vercel.app/](https://next-post-d20aoj80w-mois-projects-d04b43af.vercel.app/)
 
 ## Getting Started
 
