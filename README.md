@@ -3,13 +3,12 @@
 Willkommen zu  **Next.js** Projekt! 
 Diese Anwendung demonstriert, wie man externe Daten lädt, dynamisches Routing nutzt.
 
-## 🔍 Funktionen
+## Funktionen
 
 - ✅ Anzeige von Beiträgen mit externer API (`jsonplaceholder.typicode.com`)
 - ✅ Dynamische Routen für einzelne Beiträge
 - ✅ Fehler- und 404-Seiten integriert
 - ✅ Responsives und modernes UI
-- ✅ Dark Mode Unterstützung
 - ✅ Strukturierte Komponententrennung mit Server/Client-Komponenten
 
 
