@@ -1,17 +1,13 @@
 :root {
   /* Colors - Apple style soft palette (more subtle) */
   --color-background: #fefefe;
-  /* أبيض ناصع مع دفء خفيف */
   --color-foreground: #1a1a1a;
-  /* أسود ناعم جداً */
   --color-primary: #0a84ff;
-  /* أزرق آبل الأزرق الأساسي (أكثر سطوع) */
   --color-secondary: #ffffff;
-  /* أبيض صافي */
   --color-accent: #30d158;
-  /* أخضر آبل الأساسي (معتدل وأكثر نعومة) */
+
   --color-border: #e0e0e5;
-  /* رمادي فاتح جداً مع لمسة زرقاء */
+
 
   /* Typography */
   --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
@@ -19,16 +15,13 @@
   --font-size-base: 16px;
   --line-height-base: 1.5;
 
-  /* Spacing */
   --spacing-xs: 0.25rem;
   --spacing-sm: 0.5rem;
   --spacing-md: 1rem;
   --spacing-lg: 2rem;
   --spacing-xl: 4rem;
 
-  /* Radius */
   --radius-sm: 10px;
-  /* زوايا أكثر نعومة */
   --radius-md: 16px;
   --radius-lg: 24px;
 }
@@ -36,13 +29,10 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --color-background: #121214;
-    /* أسود أكثر دفئًا */
     --color-foreground: #e5e5ea;
-    /* أبيض رمادي ناعم */
     --color-secondary: #1c1c1e;
     --color-border: #2e2e34;
     --color-primary: #0a84ff;
-    /* نفس الأزرق لكن يظهر أكثر وضوحاً في الداكن */
     --color-accent: #30d158;
   }
 
@@ -51,7 +41,6 @@
   }
 }
 
-/* باقي الكود كما هو مع هذه الألوان الجديدة */
 
 
 html,
@@ -233,7 +222,6 @@ select {
   color: inherit;
   line-height: 1.4;
   max-height: 4.2em;
-  /* تقريبًا 3 أسطر */
   overflow: hidden;
   text-overflow: ellipsis;
 }
