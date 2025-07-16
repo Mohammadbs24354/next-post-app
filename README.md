@@ -1,3 +1,27 @@
+#  Next.js Projekt – Beitragsanzeige mit API-Anbindung
+
+Willkommen zu  **Next.js** Projekt! 
+Diese Anwendung demonstriert, wie man externe Daten lädt, dynamisches Routing nutzt.
+
+## 🔍 Funktionen
+
+- ✅ Anzeige von Beiträgen mit externer API (`jsonplaceholder.typicode.com`)
+- ✅ Dynamische Routen für einzelne Beiträge
+- ✅ Fehler- und 404-Seiten integriert
+- ✅ Responsives und modernes UI
+- ✅ Dark Mode Unterstützung
+- ✅ Strukturierte Komponententrennung mit Server/Client-Komponenten
+
+
+# 1. Repository klonen
+git clone https://github.com/Mohammadbs24354/next-post-app.git
+cd next-post-app
+
+# 2. Abhängigkeiten installieren
+npm install
+
+# 3. Lokalen Server starten
+npm run dev
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
